@@ -46,13 +46,11 @@ Multi-region CDN written in Go: 3 containerized edge servers, latency-based L7 r
 
 ### PhotoSelect
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/igederizal/photoselect)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)](https://github.com/igederizal/photoselect)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 [![Live](https://img.shields.io/badge/live-photoselect--sandy.vercel.app-4fd1a5?style=flat-square)](https://photoselect-sandy.vercel.app)
 
-[![Repo](https://img.shields.io/github/repo/igederizal/photoselect?style=social)](https://github.com/igederizal/photoselect)
-
-Password-protected photo & document vault. Supabase auth + row-level security, resumable uploads, image processing, and full project documentation (proposal, serah-terima, SQL schema).
+Password-protected photo & document vault, built for a client in the wedding & events space. Supabase auth + row-level security, resumable uploads, and image processing. Source is private — live demo on request.
 
 </div>
 
